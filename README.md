@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working as web devloper trainee at Appsteam Technologies Infopark Kochi.
 - 🌱 I’m currently learning Javascript,node js etc
